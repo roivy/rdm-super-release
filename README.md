@@ -8,7 +8,7 @@
 
 高速多协议下载 · 视频随心下 · 模型一键落位
 
-[![下载最新版](https://img.shields.io/badge/%E2%AC%87_%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%E7%89%88-v1.0.18-107cd8?style=for-the-badge)](https://github.com/roivy/rdm-super-release/releases/latest)
+[![下载最新版](https://img.shields.io/badge/%E2%AC%87_%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%E7%89%88-v1.0.19-107cd8?style=for-the-badge)](https://github.com/roivy/rdm-super-release/releases/latest)
 
 `Windows 10 / 11` · `免费` · `无广告` · `应用内自动更新`
 
